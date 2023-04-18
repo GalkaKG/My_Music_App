@@ -1,2 +1,2 @@
 # MyMusicApp
-Python Web Exam Preparation September 2022
+Python Web Basics Exam Preparation September 2022
